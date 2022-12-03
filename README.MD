@@ -1,5 +1,5 @@
-Clustering model created by the following authors:
-    1. Jonathan Robbins
-    2. Davis Thomas
-    3. Adrian Augustin
+Clustering model created by the following authors: \n
+    1. Jonathan Robbins \n
+    2. Davis Thomas \n
+    3. Adrian Augustin \n
 Attempts to cluster customers based on their RFM.
