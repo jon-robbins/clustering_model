@@ -1,4 +1,4 @@
-Clustering model created by the following authors: \n
+Clustering model created by the following authors: <br />
     1. Jonathan Robbins <br />
     2. Davis Thomas <br />
     3. Adrian Augustin <br />
